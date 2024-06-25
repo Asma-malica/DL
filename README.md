@@ -1,4 +1,4 @@
-Deep Learning Notebooks
+Deep Learning Notebooks : 
 This repository contains Jupyter notebooks related to various Deep Learning topics. Each notebook is created using Google Colaboratory.
 
 Usage
